@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TelefonoMovil
+comment1.params=modelo\ precio\ con4g
+comment1.target=TelefonoMovil(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=int\ getPrecioMovil()
+comment3.params=
+comment3.target=java.lang.String\ getModeloMovil()
+comment4.params=
+comment4.target=boolean\ getTiene4g()
+comment5.params=propietario
+comment5.target=void\ setPropietario(java.lang.String)
+comment6.params=variablePrecio
+comment6.target=void\ roturaPantalla(int)
+comment7.params=
+comment7.target=void\ alternaTiene4g()
+comment8.params=devuelveDetalles
+comment8.target=java.lang.String\ devolverDetalles(java.lang.String)
+comment9.params=
+comment9.target=void\ imprimirDetalles()
+numComments=10
