@@ -41,7 +41,7 @@ public class TelefonoMovil {
         }
     }
 
-    public String devolverDetalles(String devuelveDetalles) {
+    public String devolverDetalles() {
         return "Propietario: "+ modeloMovil +" Precio: "+ precioMovil +" Tiene 4G: "+ tiene4g;
     }
     
